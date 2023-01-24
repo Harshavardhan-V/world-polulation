@@ -18,4 +18,4 @@ Python application which maintains list of cities and its polpulation
 Step3:Python flask application (app.py) with endpoints below
 	a. healthcheck endpoint: (curl http://127.0.0.1:5000/health)
 	b. endpoint for inserting and updating the city and its population (http://127.0.0.1:5000/city)
-endpoint for retreiving the data: (http://127.0.0.1:5000//city/<string:city>)![image](https://user-images.githubusercontent.com/18350832/214297744-e7ae3227-5bb5-4aee-9e86-ea8e6b434a9d.png)
+	c. endpoint for retreiving the data: (http://127.0.0.1:5000//city/<string:city>)
